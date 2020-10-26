@@ -1,23 +1,23 @@
 # cutfiles
-<br />
+
 Cutting file tool.
 
-### Installation
-<br />
+## Installation
+
 Run `pip3 install cutfiles` or alternatively download the tarball and run `python3 setup.py install`
 
 
-### Examples
-<br />
+## Examples
 
-*file: file path
-<br />
+
+file: file path
+
 cut_size: file split size in bytes, default 100M
-<br />
+
 out_dir: save file path
-<br />
-return:None*
-<br />
+
+return:None
+
 ```
 from cutfiles.cutfiles import CutFiles
 
