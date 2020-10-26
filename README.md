@@ -11,10 +11,10 @@ Cutting file tool.
 ### Examples
 
 
-- file: file path
-- cut_size: file split size in bytes, default 100M
-- out_dir: save file path
-- return:None
+file: file path
+cut_size: file split size in bytes, default 100M
+out_dir: save file path
+return:None
 ```
 from cutfiles.cutfiles import CutFiles
 
