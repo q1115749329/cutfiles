@@ -1,16 +1,13 @@
 # cutfiles
-####
-Cutting file tool.
+
+###### Cutting file tool.
 
 
-
-****
 
 
 
 
 ### Installation
------------
 ####
 ####
 -  Run ``pip3 install cutfiles`` or alternatively download
@@ -18,7 +15,7 @@ Cutting file tool.
 
 
 ### Examples
------------
+
 ####
 - file: file path
 ####
