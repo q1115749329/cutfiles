@@ -9,7 +9,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="cutfiles",
-    version="1.0.1",
+    version="1.0.2",
     author="甄超锋",
     author_email="4535@sohu.com",
     description="Cutting file tool.",
