@@ -4,8 +4,7 @@ Cutting file tool.
 
 ### Installation
 
-#### Run ``pip3 install cutfiles`` or alternatively download
-   the tarball and run ``python3 setup.py install``
+#### Run ``pip3 install cutfiles`` or alternatively download the tarball and run ``python3 setup.py install``
 
 
 ### Examples
